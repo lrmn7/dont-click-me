@@ -1,3 +1,3 @@
 # Just for fun challanges
 
-PREVIEW: [https://dontclickme.is-a.fun/](DONT CLICK ME).
+PREVIEW: [https://dontclick-me.netlify.app/](DONT CLICK ME).
